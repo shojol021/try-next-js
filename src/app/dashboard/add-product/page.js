@@ -1,16 +1,16 @@
 import React from 'react';
 
 export const metadata = {
-    title: 'About | Next Hero',
+    title: 'Dashboard - Add-Product | Next Hero',
     description: 'Next Hero'
 }
 
-const AboutPage = () => {
+const AddProductPage = () => {
     return (
         <div>
-            About page
+            Add Product
         </div>
     );
 };
 
-export default AboutPage;
+export default AddProductPage;
